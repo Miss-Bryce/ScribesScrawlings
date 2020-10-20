@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SilverTongueTypewriter",
+    "\\SilverTongueTypewriter\\Data",
+    "\\SilverTongueTypewriter\\Models"
   ],
+  "SelectedNode": "\\SilverTongueTypewriter\\Data\\ApplicationDbContext.cs",
   "PreviewInSolutionExplorer": false
 }
